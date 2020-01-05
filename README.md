@@ -1,1 +1,1 @@
-# altuari-lottery
+Altuari Lottery Application
